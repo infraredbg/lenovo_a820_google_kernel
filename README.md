@@ -19,7 +19,7 @@ Camera  | 8MPx
 
 ![Lenovo A820](http://cdn2.gsmarena.com/vv/pics/lenovo/lenovo-a820.jpg "Lenovo A820 device")
 
-This branch is for building CyanogenMod 11 (or Android KitKat 4.4 AOSP based roms) ROMS.
+The goal of this project is to reuse sprout kernel and add MT6589 support.
 
 
 
