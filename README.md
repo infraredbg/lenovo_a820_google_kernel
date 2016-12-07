@@ -28,11 +28,6 @@ The goal of this project is to reuse sprout kernel and add MT6589 support.
 
         # ./proton_build.sh
         
-        # repo sync
-        
-        # source build/envsetup.sh
-        
-        # brunch cm_k1_turbo-eng
 
 # WORKING
 Initial commint, not working.
