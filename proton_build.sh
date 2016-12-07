@@ -6,6 +6,7 @@ export CROSS_COMPILE=arm-eabi-
 export TARGET_BUILD_VARIANT=user
 export ARCH=arm
 
+cd kernel
 mkdir out
 
 make -C $PWD O=$PWD/out lenovo_a820_defconfig
